@@ -1,0 +1,48 @@
+/*Kevin TRANG 1905670*/
+
+body{
+background-image:url("grey1.jpg");
+position:relative;
+background-position: center;
+  background-attachment: fixed;
+
+}
+
+.push{margin-left: 1350px;}
+
+.topbar{
+background-color: #333;
+  float: left;
+overflow: hidden;}
+
+.topbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  display:flex;
+  flex-direction:row;
+  align-items:center;
+  }
+
+
+
+.topbar li a {
+  display: block;
+  color: grey;
+  text-align: center;
+  padding: 20px 15px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.topbar li a:hover {
+  background-color: green;
+}
+
+label{margin-left:450px;
+text-align: center;
+color: grey;}
+
+

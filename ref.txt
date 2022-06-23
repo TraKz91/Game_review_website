@@ -1,0 +1,26 @@
+REFERENCES:
+
+Images use:
+https://www.desktopbackground.org/wallpaper/full-hd-wallpapers-backgrounds-black-grunge-45797
+https://glitchwave.com/game/sid-meiers-civilization-v-brave-new-world/
+https://store.steampowered.com/app/203770/Crusader_Kings_II/
+https://systemreqs.com/no/spill/warcraft-iii-reforged
+https://store.steampowered.com/app/400110/Else_HeartBreak/
+https://store.steampowered.com/app/300550/Shadowrun_Dragonfall__Directors_Cut/
+https://store.steampowered.com/app/413150/Stardew_Valley/
+https://store.steampowered.com/app/632470/Disco_Elysium/
+https://store.steampowered.com/app/294100/RimWorld/
+https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/
+https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/
+https://store.steampowered.com/app/787860/Farming_Simulator_19/
+https://store.steampowered.com/app/24010/Train_Simulator_2020/
+https://store.steampowered.com/app/108600/Project_Zomboid/
+https://store.steampowered.com/app/234650/Shadowrun_Returns/
+https://store.steampowered.com/app/346940/Shadowrun_Hong_Kong__Extended_Edition/
+https://store.steampowered.com/app/200900/Cave_Story/
+https://store.steampowered.com/app/411000/Sorcery_Parts_1_and_2/
+https://store.steampowered.com/app/975370/Dwarf_Fortress/
+
+
+Creation of the navigation bar with the help of w3school:
+https://www.w3schools.com/howto/howto_js_topnav.asp
